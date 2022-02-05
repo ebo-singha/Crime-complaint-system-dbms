@@ -78,7 +78,7 @@
       <div class="container-fluid h-100">
           <div class="row h-100 align-items-center justify-content-center text-center">
               <div class="col-lg-8 align-self-end mb-4 page-title">
-                <h3 class="text-white">Welcome to <?php echo $_SESSION['system']['name']; ?></h3>
+                <h3 class="text-white">Welcome  to <?php echo $_SESSION['system']['name']; ?></h3>
                   <hr class="divider my-4" />
               <div class="row mb-2 text-left justify-content-center ">
                  <button class="btn btn-primary" type="button" id="report_crime">Report a Crime/Complaint</button>
